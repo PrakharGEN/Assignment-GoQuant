@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/677888e2-4b51-421e-8f30-9e2e9d541bbc)
 # Crypto Trading Simulator with Performance Monitoring
 
 A high-performance trade simulator that leverages real-time market data to estimate transaction costs and market impact. The system connects to OKX WebSocket endpoints for streaming full L2 orderbook data.
