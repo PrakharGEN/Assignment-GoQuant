@@ -211,7 +211,7 @@ crypto-trading-simulator/
 [MIT License](LICENSE)
 
 ## Authors
-[Your Name]
+[Prakhar Mishra]
 
 ## Acknowledgments
 - OKX for providing market data access
